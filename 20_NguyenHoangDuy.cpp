@@ -2,9 +2,5 @@
 HELLO 123
 HELLO 456
 HELLO 789
-<<<<<<< HEAD
+
 HELLO 151617
-=======
-HELLO 101112
-HELLO 121314
->>>>>>> test
